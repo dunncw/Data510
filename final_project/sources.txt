@@ -1,0 +1,6 @@
+snscrape
+https://github.com/mehranshakarami/AI_Spectrum/blob/main/2022/snscrape/tweets.py
+https://github.com/JustAnotherArchivist/snscrape
+
+twitter scraping tut
+https://github.com/AlexTheAnalyst/PythonCode
